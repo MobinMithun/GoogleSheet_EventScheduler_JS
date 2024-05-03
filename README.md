@@ -31,6 +31,8 @@ This project aims to simplify the process of scheduling events in Google Calenda
 6. Save the script by clicking on the floppy disk icon or pressing `Ctrl + S` (or `Cmd + S` on macOS).
 7. Close the Apps Script editor.
 
+<img src="images/script.png" alt="Apps Script">
+
 ## Usage
 
 1. After setting up the script, go back to your Google Sheet.
