@@ -1,2 +1,2 @@
-# Google Sheets to Google Calendar Appointment Scheduler
+# Google Sheets to Google Calendar Automated Event Reminders 
 
