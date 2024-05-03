@@ -20,11 +20,11 @@ This project aims to simplify the process of scheduling events in Google Calenda
 
 ## Setup
 
-1. Open a new [Google Sheet](https://sheets.google.com) or make a copy of [investorUpdates_WG].(https://docs.google.com/spreadsheets/d/1GJ3o32q4cvaWIahB7Qqvqh1qXuu1NgZffxmR5Dyg0Qw/edit?usp=drive_link) sheet.
+1. Open a new [Google Sheet](https://sheets.google.com) or make a copy of [investorUpdates_WG](https://docs.google.com/spreadsheets/d/1GJ3o32q4cvaWIahB7Qqvqh1qXuu1NgZffxmR5Dyg0Qw/edit?usp=drive_link) sheet.
 2. Click on `Extensions` > `Apps Script`.
 3. Delete the default `Code.gs` file.
 4. Click on `File` > `New` > `Script` and name the file `MOB`.
-5. Copy the entire script from this [GitHub repository](https://github.com/MobinMithun/GoogleSheets_EventScheduling_JS/blob/main/apps_script.gs) and paste it into the `MOB.gs` file.
+5. Copy the entire script from this [GitHub Repository](https://github.com/MobinMithun/GoogleSheets_EventScheduling_JS/blob/main/apps_script.gs) and paste it into the `MOB.gs` file.
 6. Save the script by clicking on the floppy disk icon or pressing `Ctrl + S` (or `Cmd + S` on macOS).
 7. Close the Apps Script editor.
 
@@ -65,7 +65,7 @@ Contributions to this project are welcome! If you have improvements, bug fixes, 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/MobinMithun/GoogleSheets_EventScheduling_JS/blob/main/LICENSE) file for details.
+This project is licensed under the Apache-2.0 License. See the [LICENSE](https://github.com/MobinMithun/GoogleSheets_EventScheduling_JS/blob/main/LICENSE) file for details.
 
 
 
