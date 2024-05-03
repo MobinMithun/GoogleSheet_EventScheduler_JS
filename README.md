@@ -1,2 +1,2 @@
-# Google Sheets to Google Calendar Automated Event Reminders 
+# Google Sheet to Google Calendar Event Scheduling (w/ Google Apps Script)
 
