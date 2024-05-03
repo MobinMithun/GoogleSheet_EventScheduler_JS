@@ -1,2 +1,2 @@
-# GoogleSheet_EventScheduler_JS
-Google Sheet to Google Calendar Event Scheduling (Google Apps Script)
+# Google Sheets to Google Calendar Appointment Scheduler
+
