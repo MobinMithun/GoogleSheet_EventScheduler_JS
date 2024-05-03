@@ -2,7 +2,7 @@
 
 This project aims to simplify the process of scheduling events in Google Calendar by utilizing Google Sheets as an input interface. With this solution, you can easily manage your events directly from a familiar spreadsheet environment.
 
-<img src="images/events.png" alt="Event Scheduling Sheet" width="200" height="200">
+<img src="images/events.png" alt="Event Scheduling Sheet">
 
 ## Table of Contents
 
@@ -10,8 +10,9 @@ This project aims to simplify the process of scheduling events in Google Calenda
 - [Setup](#setup)
 - [Usage](#usage)
 - [Options](#options)
+- [Limitations](#limitations)
 - [Contributing](#contributing)
-- [Donations](#donations)
+- [License](#license)
 
 ## Features
 
